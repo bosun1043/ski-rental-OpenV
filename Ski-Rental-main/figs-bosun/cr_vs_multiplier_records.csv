@@ -1,0 +1,5401 @@
+algorithm,prediction_multiplier,cr
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.01,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.1,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.5,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,0.8,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.0,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,1.2,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,2.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,10.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Bayesian,100.0,1.0
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.01,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.1,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.5,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,0.8,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.0,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,1.2,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,2.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,10.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Deterministic,100.0,1.99
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.01,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.1,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.5,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,0.8,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.0,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,1.2,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,2.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,10.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
+Classical Randomized,100.0,1.5819767068693265
