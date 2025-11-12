@@ -1,15 +1,10 @@
 # File: models/bayesian_discrete.py
-
 import numpy as np
 
 class DiscreteBayesianSkiRental:
     def __init__(self, b=10, max_day=None, prior_pmf=None):
         self.b = int(b)
-
-        if max_day is None:
-            self.max_day = 4 * self.b
-        else:
-            self.max_day = int(max_day)
+        self.max_day = int(4 * self.b if max_day is None else max_day)
         if self.max_day < 1:
             raise ValueError("max_day must be an integer >= 1.")
 
@@ -28,8 +23,9 @@ class DiscreteBayesianSkiRental:
 
     def decide(self):
         """
-        Decide the optimal day to buy (switch) skis based on the discrete prior distribution.
-        Returns the day t to purchase, or max_day+1 if never purchase.
+        Buy on the first day t such that  b <= E_rent(t),
+        where E_rent(t) = sum_{k=t}^M P(T=k | T>=t) * (k - t + 1).
+        Returns purchase day t, or M+1 if no purchase occurs.
         """
         B = self.b
         M = self.max_day
@@ -38,27 +34,20 @@ class DiscreteBayesianSkiRental:
         for t in range(1, M + 1):
             Z = prior[t-1:M].sum()
             if Z <= 0:
-                return M + 1  # No more purchase since all probability mass is exhausted
+                return M + 1
 
-            post = np.zeros(M, dtype=float)
-            post[t-1:M] = prior[t-1:M] / Z
+            post_slice = prior[t-1:M] / Z
+            remain_days = (np.arange(t, M + 1) - t + 1)
+            E_rent = float(np.dot(post_slice, remain_days))
 
-            remaining_days = np.arange(t, M + 1) - t
-            c = np.minimum(remaining_days, B)
-            E_remain = np.dot(post[t-1:M], c)
-
-            cost_if_buy = B
-            cost_if_rent = 1 + E_remain
-
-            if cost_if_buy <= cost_if_rent:
+            if B <= E_rent:
                 return t
-            # otherwise, continue renting
 
-        return M + 1  # Does not purchase until the end
+        return M + 1
 
     def cost(self, decision_day, actual_days):
         """
-        Compute the cost given the decision day and actual days used.
+        Total cost given decision day and realized horizon actual_days.
         """
         B = self.b
         if decision_day <= actual_days:
@@ -68,14 +57,10 @@ class DiscreteBayesianSkiRental:
 
     def competitive_ratio(self, decision_day, actual_days):
         """
-        Compute the competitive ratio of the algorithm:
-        algorithm cost divided by the optimal cost (min(actual_days, b)).
+        Competitive ratio = algorithm cost / optimal offline cost min(actual_days, b).
         """
         alg_cost = self.cost(decision_day, actual_days)
         opt_cost = min(actual_days, self.b)
-
-        # Return meaningful ratio even if actual_days is 0
         if opt_cost <= 0:
             return float('inf') if alg_cost > 0 else 1.0
-
         return alg_cost / opt_cost
